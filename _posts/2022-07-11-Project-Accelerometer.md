@@ -4,7 +4,7 @@ author: Brunon
 date: 2022-07-11 12:00:00 +0100
 categories: [University]
 tags: [University, Project, Desing]
-pin: true
+pin: false
 math: true
 mermaid: true
 render_with_liquid: false

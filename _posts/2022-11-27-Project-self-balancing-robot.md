@@ -4,7 +4,7 @@ author: Brunon
 date: 2022-11-27 12:00:00 +0100
 categories: [University]
 tags: [Robotics, Control, Mechanical, University, Project, Design]
-pin: true
+pin: false
 math: true
 mermaid: true
 render_with_liquid: false
