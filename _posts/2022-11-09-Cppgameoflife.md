@@ -8,7 +8,7 @@ pin: false
 math: true
 mermaid: true
 render_with_liquid: false
-published: false
+hide: true
 #comment
 ---
 C++ project I made with my friend Szczepan Letkiewicz during our C++ course at the University of Twente.
