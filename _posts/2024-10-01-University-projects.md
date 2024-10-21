@@ -14,4 +14,8 @@ render_with_liquid: false
 
 This is a rundown of differend projects that I have done during university. 
 
+Self balancing robot
+Accelerometer 
+???? Antenna ? - FEM
+
 > Have a nice day, Brunon

@@ -13,4 +13,11 @@ render_with_liquid: false
 ---
 This is a rundown of my programming projects that I had done in my past. 
 
+Examples:
+Game of life - C++ class based programming
+Tram - route search engine app - Python based class based programming
+Microcontrollers - something from my github
+Industrial motor controller - Thesis robot was controlled using an internal programming language that is simillar to C
+
+
 > Have a nice day, Brunon
