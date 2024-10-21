@@ -1,5 +1,5 @@
 ---
-title: My Bachelors Thesis - Designing Inverse Dynamics Dontroller for Dual Parallel SCARA robot
+title: My Bachelors Thesis
 author: Brunon
 date: 2024-07-10 12:00:00 +0100
 categories: [University]
