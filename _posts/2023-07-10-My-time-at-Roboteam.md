@@ -22,10 +22,10 @@ It was the best thing I did during my studies and one of the best adventures of 
 
 As for what I did throughout my year, my contributions were:
 - Designing storage and transport solution - crates.
-- Improving solenoid drive
-- Developing and implementing a chipping mechanism 
-- Increasing stability of the main frame of the robots
-- Maintaining and fixing the robots
+- Optimising and standardising the solenoid mechanism.
+- Developing and implementing a chipping mechanism.
+- Increasing stability of the main frame of the robots.
+- Maintaining and fixing the robots.
 
 >Most of the what I have done has been described on RoboTeam Wiki page: <https://wiki.roboteamtwente.nl/technical/mechanics/robot_22_23>
 {: .prompt-tip }

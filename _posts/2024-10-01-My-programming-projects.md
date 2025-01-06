@@ -4,7 +4,7 @@ author: Brunon
 date: 2024-10-01 12:00:00 +0100
 categories: [Projects]
 tags: [University, Project, Programming]
-pin: false
+pin: true
 math: true
 mermaid: true
 render_with_liquid: false
