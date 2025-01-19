@@ -53,10 +53,10 @@ Design for additive manufacturing
 During my third year I took part in Design for Additive Manufacturing course, which had a coresponding group project. Our task was to redesign an engine bracket so that is utilises all of the benefits of additive manufacturing and has improved performence compared to the existing part. This required using generative desing and finite elements method analysis in Fusion360 software. 
 
 # Report describing the project in detail:
-<object data="/assets/2024-10-01-University-projects/DfAM_report_Group_1" width="792" height="589" type='application/pdf'> </object>
+<object data="/assets/2024-10-01-University-projects/DfAM_report_Group_.pdf" width="792" height="589" type='application/pdf'> </object>
 
 
 ### Coffee machine 
 During my exchange in Sweden I took part in product design course, where our job was to reverse engineer a coffee machine and create a better one with improved performence and targetted at our chosen customer groups. By my suggestion we went for bauhaus style design. 
 # Report describing the project in detail:
-<object data="/assets/2024-10-01-University-projects/MMF092_Report___v2" width="792" height="589" type='application/pdf'> </object>
+<object data="/assets/2024-10-01-University-projects/MMF092_Report___v2.pdf" width="792" height="589" type='application/pdf'> </object>
