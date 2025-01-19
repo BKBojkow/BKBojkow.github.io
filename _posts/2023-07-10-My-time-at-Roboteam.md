@@ -3,7 +3,7 @@ title: My time in RoboTeam
 author: Brunon
 date: 2023-07-11 9:00:00 +0100
 categories: [Work experience]
-tags: [Robots, Work experience, Mechanical engineering]
+tags: [Robots, Work experience]
 pin: true
 math: true
 mermaid: true

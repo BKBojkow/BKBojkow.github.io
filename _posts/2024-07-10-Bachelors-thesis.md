@@ -3,7 +3,7 @@ title: My Bachelors Thesis
 author: Brunon
 date: 2024-07-10 12:00:00 +0100
 categories: [University]
-tags: [University, Control]
+tags: [University, Thesis]
 pin: true
 math: true
 mermaid: true
