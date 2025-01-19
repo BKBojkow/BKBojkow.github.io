@@ -14,6 +14,6 @@ I have worked with multiple robotics projects :
 I am also interested in the field of additive manufacturing - 3D printing. I have worked with 3D printing for over 7 years now, mainly with FDM SLA and SLS printers.
 
 
-In my spare time, I'm a maker. [Here is a link to my makers portfolio](messedupprojects.github.io)
+In my spare time, I'm a maker. [Here is a link to my makers portfolio](https://www.messedupprojects.github.io)
 
 Have a nice day!
