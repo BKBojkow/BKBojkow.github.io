@@ -44,18 +44,19 @@ My role in this project was to create the mechanical elements of the platform an
 Another project from my second year was creation of directional antenna with a purpose of transmitting radio signal. Our group setteld for a Yagi-Uda antenna. 
 My role in this project was to determine the optimal dimentions and the theoretical performence of the antenna, based on finite element method done in COMSOL software. 
 
-# Report from the project:
+# Report describing the project in detail:
 <object data="/assets/2024-10-01-University-projects/Antenna.pdf" width="792" height="589" type='application/pdf'> </object>
 
 
 ### Redesign of engine bracket
 Design for additive manufacturing
 During my third year I took part in Design for Additive Manufacturing course, which had a coresponding group project. Our task was to redesign an engine bracket so that is utilises all of the benefits of additive manufacturing and has improved performence compared to the existing part. This required using generative desing and finite elements method analysis in Fusion360 software. 
-# Group report detailing the project :
+
+# Report describing the project in detail:
 <object data="/assets/2024-10-01-University-projects/DfAM_report_Group_1" width="792" height="589" type='application/pdf'> </object>
 
 
 ### Coffee machine 
 During my exchange in Sweden I took part in product design course, where our job was to reverse engineer a coffee machine and create a better one with improved performence and targetted at our chosen customer groups. By my suggestion we went for bauhaus style design. 
-# Group report with the project outcome :
-<object data="/assets/2024-10-01-University-projects/MMF092_Report___v2 width="792" height="589" type='application/pdf'> </object>
+# Report describing the project in detail:
+<object data="/assets/2024-10-01-University-projects/MMF092_Report___v2" width="792" height="589" type='application/pdf'> </object>
